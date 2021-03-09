@@ -114,13 +114,13 @@ function loginForm(){
                     <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar3.png" />
                     <label for="sad"> <img src="img/avatar3.png" style="width:50px;" /> </label>
 
-                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar4.png" />
+                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar4.jpg" />
                     <label for="sad"> <img src="img/avatar4.jpg" style="width:50px;" /> </label>
 
-                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avata5.png" />
+                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar5.jpg" />
                     <label for="sad"> <img src="img/avatar5.jpg" style="width:50px;" /> </label>
 
-                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar6.png" />
+                    <input type="radio" name="emoji" id="sad" class="input-hidden" value="avatar6.jpg" />
                     <label for="sad"> <img src="img/avatar6.jpg" style="width:50px;" /> </label>
 
 
