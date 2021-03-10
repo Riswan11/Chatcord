@@ -1,6 +1,6 @@
 # Chatcord
 
-1. unzip the file
+1. unzip the file or clone the files unto your machine.
 
 2. Download and Install Xampp on your machine.
 
